@@ -3,14 +3,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.nomorbot = '254736958034' //Nomor Bot
-global.owner = [
-  ['254736958034', '🐝KHALID-TECH🐝', true],
-  ['923470027813'], '🌿xIRATOS CONTRIBUTORx🌿', true],
-  ['254768667910', '🐝STARBOY DONATOR🐝', true],
+global.owner = ['233543988521', 'RICHMAN'],
 ] //Numeros
 
-global.mods = ['254736958034'] 
-global.prems = ['254736958034', '254716216161', '923470027813']
+global.mods = ['233543988521'] 
+global.prems = ['233543988521']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
