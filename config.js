@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['233543988521', 'khalid-tech', true], 
+  ['233543988521', 'JACK_BOTT', true], 
 ] //Numeros de owner 
 
 global.mods = ['254736958034'] 
